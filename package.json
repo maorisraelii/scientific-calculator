@@ -1,0 +1,19 @@
+{
+  "name": "scientific-calculator",
+  "version": "1.0.0",
+  "description": "Calculator to calculate X^2 equasion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maorisraelii/scientific-calculator.git"
+  },
+  "author": "Maor Israeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maorisraelii/scientific-calculator/issues"
+  },
+  "homepage": "https://github.com/maorisraelii/scientific-calculator#readme"
+}
