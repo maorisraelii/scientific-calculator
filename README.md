@@ -144,3 +144,31 @@ Here is a list of all the functions defined in the code, a brief description of 
 			console.log(isPrime(5));
 			```
 			returns: 5 is a Prime
+			
+## Example code
+
+```javascript
+const scientificCalculator = require('@maorisr/scientific-calculator')
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+console.log(scientificCalculator.standardDeviation(numbers));
+console.log(scientificCalculator.quadratic(1,2,-3))
+console.log(scientificCalculator.squareArea(5));
+console.log(scientificCalculator.triangleArea(5,7));
+console.log(scientificCalculator.circleArea(5));
+console.log(scientificCalculator.coneArea(5,7));
+console.log(scientificCalculator.cylinderArea(5,7));
+console.log(scientificCalculator.fahrenheitToCelsius(50));
+console.log(scientificCalculator.celsiusToFahrenheit(10));
+console.log(scientificCalculator.sin(5));
+console.log(scientificCalculator.cos(5));
+console.log(scientificCalculator.tan(5));
+console.log(scientificCalculator.log(5));
+console.log(scientificCalculator.ln(5));
+console.log(scientificCalculator.exp(5));
+console.log(scientificCalculator.sqrt(5));
+console.log(scientificCalculator.degreesToRadians(5));
+console.log(scientificCalculator.radiansToDegrees(5));
+console.log(scientificCalculator.factorial(5));
+console.log(scientificCalculator.isPrime(5));
+```
