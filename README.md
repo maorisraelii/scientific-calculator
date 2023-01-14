@@ -78,6 +78,42 @@ Here is a list of all the functions defined in the code, a brief description of 
 			console.log(sin(1));
 			```
 			returns: Sin 1 is: 0.8414709848
+- **cos(x):** Calculates the cosine of the given angle x in radians, and returns the result as a string.
+	- **Example:** 
+			```
+			console.log(cos(5));
+			```
+			returns: Cos 5 is: 0.28366218546322625
+- **tan(x):** Calculates the tangent of the given angle x in radians, and returns the result as a string.
+	- **Example:** 
+			```
+			console.log(tan(5));
+			```
+			returns: Tan 5 is: -3.380515006246586
+- **log(x):** Calculates the natural logarithm (base e) of the given number x, and returns the result as a string.
+	- **Example:** 
+			```
+			console.log(log(5));
+			```
+			returns: Log 5 is: 1.6094379124341003
+- **ln(x):** Calculates the natural logarithm (base e) of the given number x, and returns the result as a string.
+	- **Example:** 
+			```
+			console.log(ln(5));
+			```
+			returns: Ln 5 is: 1.6094379124341003
+- **exp(x):** Calculates the exponential function e^x of the given number x, and returns the result as a string.
+	- **Example:** 
+			```
+			console.log(exp(5));
+			```
+			returns: Exp 5 is: 148.4131591025766
+- **sqrt(x):** Calculates the square root of the given number x, and returns the result as a string.
+	- **Example:** 
+			```
+			console.log(sqrt(5));
+			```
+			returns: Sqrt 5 is: 2.23606797749979
 - **degreesToRadians(x):** Converts the given angle x from degrees to radians, and returns the result as a string.
 	- **Example:** 
 			```
