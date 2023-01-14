@@ -77,7 +77,7 @@ function degreesToRadians(x) {
 function radiansToDegrees(x) {
     return `${x} Radians in Degrees is: ${x * (180 / Math.PI)}`;
 }
-בג
+
 function factorial(x) {
     let f = 1;
     for (let i = 2; i <= x; i++) {
