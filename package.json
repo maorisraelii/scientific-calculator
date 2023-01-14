@@ -1,6 +1,6 @@
 {
   "name": "@maorisr/scientific-calculator",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This package is a collection of mathematical functions that can perform various calculations such as solving quadratic equations, calculating areas, converting temperature units and perform trigonometry, logarithms, exponentials, factorials and more.",
   "main": "index.js",
   "scripts": {
